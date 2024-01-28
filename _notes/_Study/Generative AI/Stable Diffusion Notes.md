@@ -1,0 +1,1 @@
+- [p] [[Stable Diffusion XYZ Plots]]
